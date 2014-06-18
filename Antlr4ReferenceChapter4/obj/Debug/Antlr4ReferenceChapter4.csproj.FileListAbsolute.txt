@@ -1,0 +1,15 @@
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\bin\Debug\Antlr4ReferenceChapter4.exe.config
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\bin\Debug\t.expr
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\bin\Debug\Antlr4ReferenceChapter4.exe
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\bin\Debug\Antlr4ReferenceChapter4.pdb
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\bin\Debug\Antlr4.Runtime.v4.5.dll
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\bin\Debug\Antlr4.Runtime.v4.5.xml
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprLexer.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprParser.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprListener.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprBaseListener.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprVisitor.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprBaseVisitor.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\Antlr4ReferenceChapter4.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\Antlr4ReferenceChapter4.exe
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\Antlr4ReferenceChapter4.pdb

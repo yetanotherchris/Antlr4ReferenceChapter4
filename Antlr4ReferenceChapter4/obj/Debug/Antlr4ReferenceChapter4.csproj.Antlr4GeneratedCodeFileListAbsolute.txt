@@ -1,0 +1,6 @@
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprLexer.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprParser.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprListener.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprBaseListener.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprVisitor.cs
+C:\Users\chris.small\Documents\GitHub\Antlr4ReferenceChapter4\Antlr4ReferenceChapter4\obj\Debug\ExprBaseVisitor.cs
